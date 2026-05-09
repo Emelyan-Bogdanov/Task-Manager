@@ -1,0 +1,2 @@
+1. move the javafx jars files to : /modules/javafx/lib <- here
+2. of course you have to create the folder /modules/javafx/lib
